@@ -1,5 +1,5 @@
 # Zomato-Analytics
-[Live-Dashboard](https://app.powerbi.com/groups/me/reports/b28d0240-0890-4753-a704-e9b2776922e8/ReportSection942577546b22383670da?experience=power-bi)
+[Live-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjAyNmUxYzItNDM4My00NTNjLWE5NzAtYjU1MzU1MmMxZjYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9i)
 # Project Overview : 
 Zomato is a restaurant aggregation and meal delivery service based in India. It is currently operating in several countries across the world. Zomato provides thorough information about numerous eateries as well as consumer reviews. Zomato's owners aim to find hidden irregularities in their company's data. The ultimate goal of this project is to examine the data in such a way that they can accurately assess their business performance across states and cities.
 # Dashboard Requirements :
@@ -79,7 +79,7 @@ Big news! Zomato's Power BI dashboard is now operational. With our skills in dat
 
 
 # Live Dashboard
-1 Explore the [Live dashboards](https://app.powerbi.com/groups/me/reports/b28d0240-0890-4753-a704-e9b2776922e8/ReportSection942577546b22383670da?experience=power-bi)
+1 Explore the [Live dashboards](https://app.powerbi.com/view?r=eyJrIjoiZjAyNmUxYzItNDM4My00NTNjLWE5NzAtYjU1MzU1MmMxZjYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 2 Open the link above to access the interactive dashboards.
 
